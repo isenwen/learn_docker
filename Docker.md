@@ -556,6 +556,10 @@ edbd9366d959        centos              "/bin/bash"         7 minutes ago       
 [root@edbd9366d959 /]# exit ##停止并推出
 exit
 
+
+第一次启动镜像用run
+再次启动容器用exec
+
 ```
 
 #### 删除容器
